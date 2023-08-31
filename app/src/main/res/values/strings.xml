@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleDemoApp</string>
+    <string name="no_data_available">No Data available</string>
+    <string name="no_internet">No Internet connection</string>
+</resources>
